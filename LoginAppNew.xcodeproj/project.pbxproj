@@ -62,12 +62,12 @@
 			children = (
 				C739C8132915668F008B1B5A /* AppDelegate.swift */,
 				C739C8152915668F008B1B5A /* SceneDelegate.swift */,
-				C739C827291568EE008B1B5A /* LoginViewController.swift */,
 				C739C8192915668F008B1B5A /* Main.storyboard */,
-				C75549E729167E7C00545150 /* Media.xcassets */,
+				C739C827291568EE008B1B5A /* LoginViewController.swift */,
 				C739C82929156929008B1B5A /* WelcomeViewController.swift */,
-				C739C81C29156690008B1B5A /* Assets.xcassets */,
 				C739C81E29156690008B1B5A /* LaunchScreen.storyboard */,
+				C75549E729167E7C00545150 /* Media.xcassets */,
+				C739C81C29156690008B1B5A /* Assets.xcassets */,
 				C739C82129156690008B1B5A /* Info.plist */,
 			);
 			path = LoginAppNew;
