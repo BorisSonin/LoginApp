@@ -15,12 +15,6 @@ class InformationViewController: UIViewController {
     @IBOutlet var company: UILabel!
     @IBOutlet var profession: UILabel!
     
-//    private let user = User.username
-//    private let password = User.paswword
-    
-   
-    
-    
     override func viewDidLoad() {
         super.viewDidLoad()
         addUser()
